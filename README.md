@@ -104,5 +104,3 @@ python-mini-toolkit/
 
 **Adam Jattiem**  
 Life Choices Academy — YouthCode Programme  
-GitHub: *(coming soon)*  
-LinkedIn: *(coming soon)*
